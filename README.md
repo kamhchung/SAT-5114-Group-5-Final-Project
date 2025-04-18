@@ -52,7 +52,7 @@ Treatment Plan support: The model will suggest appropriate monitoring frequency 
 Disease Summary: Provide families with a summary of the disease that they can access at any time to ensure understanding and transparency with diagnosis.
 
 # Data
-This model was trained on data from an observational study done at the Children's Hospital and the Institue of Child Health in Multan, Pakistan in 2012. 
+This model was trained on data from an observational study done at the Children's Hospital and the Institue of Child Health in Multan, Pakistan in 2012. Our team attempted to use the CDC's Period Linked Birth-Infant Death File from 2015, however, the dataset was too large and incompatible with the Google Colab Notebook we used to write the program. In the future, we would like to figure out how to use this data to implement training, using direct patient data containing all of the input data our model is using.  
 
 # Summary
 In summary, our model utilized data from the given dataset to calculate risk for neonates developing PPHN and is be able to suggest diagnostic proceedings if necessary.
