@@ -54,6 +54,11 @@ Disease Summary: Provide families with a summary of the disease that they can ac
 # Data
 This model was trained on data from an observational study done at the Children's Hospital and the Institue of Child Health in Multan, Pakistan in 2012. Our team attempted to use the CDC's Period Linked Birth-Infant Death File from 2015, however, the dataset was too large and incompatible with the Google Colab Notebook we used to write the program. In the future, we would like to figure out how to use this data to implement training, using direct patient data containing all of the input data our model is using.  
 
+# Recorded Presentation
+Please follow this link to watch our recorded presentation.
+
+https://youtu.be/fCcd6RjMLBI
+
 # Summary
 In summary, our model utilized data from the given dataset to calculate risk for neonates developing PPHN and is be able to suggest diagnostic proceedings if necessary.
 
